@@ -11,6 +11,8 @@ The HTML embeds all 40 project photos so it works as a standalone file. The Mark
 
 Run `python3 tools/build_trip_html.py` to refresh the Markdown photo sections and both HTML files. The builder uses `data/project_photos.json` and the bundled theme files in `tools/`. No external template or Python packages are required.
 
+Booking overview links are maintained in `data/bookings.json`; replace an item’s `url` with its ticket or order URL and run the builder to update both HTML files and the Markdown overview.
+
 ## GitHub Pages
 
 In repository Settings → Pages, select **Deploy from a branch**, then **main** and **/ (root)**.

@@ -9,6 +9,15 @@ ROOT = Path(__file__).resolve().parent.parent
 MD = ROOT / 'orlando_trip_cn_2026-12-04_12-12.md'
 OUT = ROOT / 'orlando_mobile_trip_cn.html'
 sync_photo_sections()
+bookings = json.loads((ROOT / 'data/bookings.json').read_text())
+booking_lines = ['<!-- booking-overview:start -->', '### 预订概览', '', '当前链接为预订／查询入口，可替换为电子票或订单链接。', '', '| 日期 | 项目 | 人数／安排 | 链接 |', '| --- | --- | --- | --- |']
+for item in bookings:
+    booking_lines.append(f"| {item['date']} | {item['title']} | {item['note']} | [查看]({item['url']}) |")
+booking_lines += ['', '<!-- booking-overview:end -->']
+md_text = MD.read_text()
+md_text = re.sub(r'<!-- booking-overview:start -->.*?<!-- booking-overview:end -->\n*', '', md_text, flags=re.S)
+md_text = md_text.replace('## 7. 预约与临近复核清单\n', '## 7. 预约与临近复核清单\n\n' + '\n'.join(booking_lines) + '\n')
+MD.write_text(md_text)
 photos = json.loads((ROOT / 'data/project_photos.json').read_text())
 source = MD.read_text()
 css = (ROOT / 'tools/base_theme.css').read_text()
@@ -114,6 +123,18 @@ cut('#### 当天餐饮与拍照', '#### 时间不足时按这个顺序删'),
 '**民宿附近早午餐。** 不去远处追餐厅，按退房和还车时间安排；目标约 15:00 到机场还车。'
 ]
 foodhtml=''.join(f'<article class="card food-detail prose" id="food-{d["id"]}" data-food-id="{d["id"]}" hidden><div class="card-title"><h3>{d["label"]} · 吃什么</h3><span class="badge flex">{d["short"]}</span></div>{render(foodnotes[i])}<p><a class="button" href="#{d["id"]}">查看当天完整路线 ↗</a></p></article>' for i,d in enumerate(days))
+def booking_overview():
+    groups = dict.fromkeys(item['group'] for item in bookings)
+    sections = []
+    for group in groups:
+        rows = []
+        for item in bookings:
+            if item['group'] != group:
+                continue
+            rows.append(f'<li class="booking-row" data-booking-id="{escape(item["id"], quote=True)}"><div class="booking-main"><span class="booking-title">{escape(item["title"])}</span><span class="booking-meta">{escape(item["date"])} · {escape(item["note"])}</span></div><a class="booking-link" href="{escape(item["url"], quote=True)}" target="_blank" rel="noopener noreferrer" aria-label="查看：{escape(item["title"], quote=True)}">查看 ↗</a></li>')
+        sections.append(f'<section class="booking-group"><h3>{escape(group)}</h3><ul class="booking-list">'+''.join(rows)+'</ul></section>')
+    return ''.join(sections)
+
 def photo_gallery(day):
     items = [p for p in photos if p['day'] == day]
     if not items:
@@ -141,12 +162,15 @@ body{font-size:16px;line-height:1.65} .hero{position:relative;isolation:isolate;
 extra += '\n' + (ROOT / 'tools/mickey_theme.css').read_text()
 extra += '\n' + (ROOT / 'tools/project_photos.css').read_text()
 extra += '\n' + (ROOT / 'tools/navigation.css').read_text()
+extra += '\n' + (ROOT / 'tools/bookings.css').read_text()
 
 hero='''<svg class="hero-art" viewBox="0 0 750 320" aria-hidden="true"><circle cx="620" cy="82" r="42" fill="var(--mickey-white)"/><path d="M0 265 Q110 230 220 265 T440 270 T750 252V320H0Z" fill="var(--mickey-red)"/><g fill="none" stroke="var(--mickey-yellow)" stroke-width="3"><path d="M70 240C130 70 250 68 300 223S458 230 510 136S642 83 705 238"/><path d="M82 240C142 82 238 83 288 229S470 245 523 143S633 98 693 240"/><path d="M130 161V252M185 118V253M242 148V253M310 241V263M415 229V260M500 155V251M568 105V254M635 136V253"/></g><g fill="var(--mickey-white)"><path d="M450 256V165H470V128L483 94L496 128V165H520V256Z"/><path d="M405 256V195H425V159L438 135L451 159V256Z"/><path d="M520 256V186H540V151L553 121L566 151V256Z"/><circle cx="358" cy="205" r="40"/></g><g fill="none" stroke="var(--mickey-yellow)" stroke-width="7"><path d="M670 320V206M670 221Q640 185 614 202M670 215Q693 177 724 188M670 222Q705 206 738 222"/></g></svg>'''
 nav=[('home','速览'),('timeline','每日'),('bookings','预订'),('food','餐饮'),('transport','交通'),('packing','打包'),('links','链接')]
-html='''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="color-scheme" content="light"><meta name="theme-color" content="#191816"><title>奥兰多旅行计划 · 2026.12.04–12.12</title><style>'''+css+extra+'''</style></head><body><a class="skip-link" href="#content">跳到行程内容</a><header class="hero" id="top">'''+hero+'''<div class="hero-inner"><span class="eyebrow">2026.12.04–12.12 · 3 人 · Orlando & Springs</span><h1>Orlando Trip</h1><p>Epic 留一整天，冒险岛多玩一点。后半程划清泉、看湖景，在海边坐到日落。</p></div></header><main class="app-shell" id="content"><nav class="nav-strip" aria-label="页面导航">'''+''.join(f'<a href="#{a}">{b}</a>' for a,b in nav)+'''</nav><section class="app-view" id="home" data-view="home"><div class="home-stack"><div class="top-grid"><section class="panel"><div class="card-title"><div><h2>行程概览</h2><p>同一间民宿，前四天乐园，后三天看风景。</p></div><span class="badge pending">规划中 · v7</span></div><div class="stats"><div class="stat"><span>同行</span><strong>3 人</strong></div><div class="stat"><span>乐园</span><strong>4 园</strong></div><div class="stat"><span>住宿</span><strong>8 晚</strong></div><div class="stat"><span>租车开始</span><strong>12/9</strong></div></div><div class="route-line"><span>Epic＋Express</span><span>冒险岛优先</span><span>清泉与海边</span></div></section><section class="panel"><div class="card-title"><h2>最容易忘的事</h2></div><div class="quick-list">'''+quickhtml+'''</div></section></div>'''+banner('每天一条主线','点击日期，直接进入当天的路线、餐厅、拍照与取舍。')+'<section class="panel">'+overview+'</section><div class="decision-grid">'+card('环球三天','12/5 海格、迅猛龙、绿巨人。12/6 Studios 精选＋冒险岛补刷，需跨园票。12/7 Epic 五个核心 ride＋两场表演。\n\n[打开 Epic 当天](#day-12-7)')+card('后半程怎么选','Silver Springs 短线，King’s Landing 可与 Mount Dora 组合。周五 Sarasota 是长途日；不想累就 Winter Park。\n\n[看周五两条路线](#day-12-11)')+card('三人购票预算','**环球：$2,708.73 含税**，旧双园跨园两天＋Epic 一天促销票与三日普通 Express。**EPCOT：预算 $731.66–811.53／三人**，门票价已核，LL 是预估。\n\n[看明细、比价与购票链接](#bookings)')+'</div>'+card('暂定住宿 · Reunion Resort','**12/4–12/12，8 晚；三卧两卫，一楼。** 尚未确认预订。环球三天预留更宽的打车时间，12/12 按 10:00 前退房。\n\n[房源、价格记录与入住待办](#bookings)')+'<details class="card prose"><summary>住宿、航班与已确认信息</summary>'+render(info)+'</details><details class="card prose"><summary>天气、体力与恢复优先版</summary>'+render(weather)+'</details></div></section>'
+html='''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="color-scheme" content="light"><meta name="theme-color" content="#191816"><title>奥兰多旅行计划 · 2026.12.04–12.12</title><style>'''+css+extra+'''</style></head><body><a class="skip-link" href="#content">跳到行程内容</a><header class="hero" id="top">'''+hero+'''<div class="hero-inner"><span class="eyebrow">2026.12.04–12.12 · 3 人 · Orlando & Springs</span><h1>Orlando Trip</h1><p>Epic 留一整天，冒险岛多玩一点。后半程划清泉、看湖景，在海边坐到日落。</p></div></header><main class="app-shell" id="content"><nav class="nav-strip" aria-label="页面导航">'''+''.join(f'<a href="#{a}">{b}</a>' for a,b in nav)+'''</nav><section class="app-view" id="home" data-view="home"><div class="home-stack"><div class="top-grid"><section class="panel"><div class="card-title"><div><h2>行程概览</h2><p>同一间民宿，前四天乐园，后三天看风景。</p></div><span class="badge pending">规划中 · v7</span></div><div class="stats"><div class="stat"><span>同行</span><strong>3 人</strong></div><div class="stat"><span>乐园</span><strong>4 园</strong></div><div class="stat"><span>住宿</span><strong>8 晚</strong></div><div class="stat"><span>租车开始</span><strong>12/9</strong></div></div><div class="route-line"><span>Epic＋Express</span><span>冒险岛优先</span><span>清泉与海边</span></div></section><section class="panel"><div class="card-title"><h2>最容易忘的事</h2></div><div class="quick-list">'''+quickhtml+'''</div></section></div>'''+banner('每天一条主线','点击日期，直接进入当天的路线、餐厅、拍照与取舍。')+'<section class="panel">'+overview+'</section><div class="decision-grid">'+card('环球三天','12/5 海格、迅猛龙、绿巨人。12/6 Studios 精选＋冒险岛补刷，需跨园票。12/7 Epic 五个核心 ride＋两场表演。\n\n[打开 Epic 当天](#day-12-7)')+card('后半程怎么选','Silver Springs 短线，King’s Landing 可与 Mount Dora 组合。周五 Sarasota 是长途日；不想累就 Winter Park。\n\n[看周五两条路线](#day-12-11)')+card('三人购票预算','**环球：$2,708.73 含税**，旧双园跨园两天＋Epic 一天促销票与三日普通 Express。**EPCOT：预算 $731.66–811.53／三人**，门票价已核，LL 是预估。\n\n[查看预订概览](#bookings)')+'</div>'+card('暂定住宿 · Reunion Resort','**12/4–12/12，8 晚；三卧两卫，一楼。** 尚未确认预订。环球三天预留更宽的打车时间，12/12 按 10:00 前退房。\n\n[查看住宿预订入口](#bookings)')+'<details class="card prose"><summary>住宿、航班与已确认信息</summary>'+render(info)+'</details><details class="card prose"><summary>天气、体力与恢复优先版</summary>'+render(weather)+'</details></div></section>'
 html+='<section class="app-view" id="timeline" data-view="daily" hidden>'+banner('每日行程','每次只展开一天。表格在手机上可左右滑动，官方与导航链接可直接打开。')+picker('day')+'<div class="toolbar"><button type="button" data-step="-1">← 前一天</button><span id="day-position" aria-live="polite"></span><button type="button" data-step="1">后一天 →</button></div><details class="card prose"><summary>环球三日：项目名称、Express 与跨园前提</summary>'+render(universal)+'</details>'+dayhtml+'</section>'
-html+='<section class="app-view" id="bookings" data-view="bookings" hidden>'+banner('预订与待办','暂定 Reunion 住宿，尚待确认订单。勾选状态只保存在本浏览器，不代表实际完成预订。')+card('暂定住宿 · Reunion 一楼公寓',lodging,'8 晚 · 尚未确认预订')+card('三人票价 · 怎么买更划算',pricing,'11/15 查询')+card('门票与 Express',tickets,'请核对产品')+card('预约清单',checks)+card('环球 Express 执行说明',universal)+'</section>'
+# Reserve the previous checklist keys so saved packing checks keep their meaning.
+counter += len(re.findall(r'(?m)^- \[[ xX]\] ', checks))
+html+='<section class="app-view" id="bookings" data-view="bookings" hidden>'+banner('预订概览','3 人 · 当前为预订入口，可替换成电子票或订单链接。')+booking_overview()+'</section>' 
 html+='<section class="app-view" id="food" data-view="food" hidden>'+banner('每天吃什么','先看当天首选，备选按体力选。周三到周五含地址、预算、菜单与营业信息。')+picker('food')+foodhtml+'</section>'
 html+='<section class="app-view" id="transport" data-view="transport" hidden>'+banner('航班 · 民宿 · 租车','乐园几天打车；周边游再取车。拿到民宿门牌后复核车程。')+card('已确认信息',info)+card('交通执行',transport)+'</section>'
 html+='<section class="app-view" id="packing" data-view="packing" hidden>'+banner('打包与出门前检查','12 月注意晚风，水上活动带干衣，乐园轻装。')+card('打包清单',packing)+card('每天离开民宿前','- [ ] 手机、电量和充电宝\n- [ ] 当天门票／Express／预订确认信\n- [ ] 证件、水、零食、薄外套\n- [ ] 今天的目标、午餐和最晚回程时间\n- [ ] 水上日带防水袋、毛巾和干衣\n- [ ] 返程日查航班、还车门店和航站楼')+'</section>'

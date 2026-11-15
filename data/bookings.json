@@ -1,0 +1,90 @@
+[
+  {
+    "id": "stay",
+    "group": "住宿与交通",
+    "date": "12/4–12/12",
+    "title": "Reunion 一楼公寓",
+    "note": "3 人 · 8 晚",
+    "url": "https://www.airbnb.cn/rooms/934030452168483857?check_in=2026-12-04&check_out=2026-12-12&adults=3"
+  },
+  {
+    "id": "car",
+    "group": "住宿与交通",
+    "date": "12/9–12/12",
+    "title": "周边游租车",
+    "note": "取还点、供应商待定 · Alamo 查询入口",
+    "url": "https://www.alamo.com/"
+  },
+  {
+    "id": "universal",
+    "group": "乐园门票",
+    "date": "12/5–12/7",
+    "title": "环球三日门票",
+    "note": "3 人 · 旧双园跨园 2 天＋Epic 1 天",
+    "url": "https://www.undercovertourist.com/orlando/universal-2-park-2-day-park-to-park-plus-1-day-epic-universe-ticket/"
+  },
+  {
+    "id": "express",
+    "group": "乐园门票",
+    "date": "12/5–12/7",
+    "title": "环球三日 Express",
+    "note": "3 人 · 三园普通 Express",
+    "url": "https://www.undercovertourist.com/orlando/universal-3-day-universal-express-pass-ticket/"
+  },
+  {
+    "id": "epcot",
+    "group": "乐园门票",
+    "date": "12/8",
+    "title": "EPCOT 一日门票",
+    "note": "3 人",
+    "url": "https://disneyworld.disney.go.com/admission/tickets/theme-parks/"
+  },
+  {
+    "id": "multi-pass",
+    "group": "乐园门票",
+    "date": "12/8",
+    "title": "EPCOT Lightning Lane Multi Pass",
+    "note": "3 人 · 优先预约料理鼠王",
+    "url": "https://disneyworld.disney.go.com/lightning-lane-passes/"
+  },
+  {
+    "id": "guardians-pass",
+    "group": "乐园门票",
+    "date": "12/8",
+    "title": "银河护卫队 Single Pass",
+    "note": "3 人 · 单独购买",
+    "url": "https://disneyworld.disney.go.com/lightning-lane-passes/"
+  },
+  {
+    "id": "silver",
+    "group": "周边活动",
+    "date": "12/9 · 11:30 左右",
+    "title": "Silver Springs 短线 kayak",
+    "note": "3 人 · 时段待订",
+    "url": "https://silversprings.com/plan-your-day/paddling/"
+  },
+  {
+    "id": "kings",
+    "group": "周边活动",
+    "date": "12/10 · 上午",
+    "title": "King’s Landing · Emerald Cut",
+    "note": "3 人 · Day Paddle 原点往返",
+    "url": "https://www.kingslandingfl.com/daypaddlekayakrentals"
+  },
+  {
+    "id": "ringling",
+    "group": "周边活动",
+    "date": "12/11 · B 路线",
+    "title": "The Ringling",
+    "note": "可选 · Sarasota 版",
+    "url": "https://www.ringling.org/"
+  },
+  {
+    "id": "winter-boat",
+    "group": "周边活动",
+    "date": "12/11 · A 路线",
+    "title": "Winter Park Scenic Boat Tour",
+    "note": "可选 · 官网列先到先上船",
+    "url": "https://scenicboattours.com/"
+  }
+]

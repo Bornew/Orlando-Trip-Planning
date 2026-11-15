@@ -814,6 +814,27 @@ Palm Island 的地址为 **411 S Tremain St**，市政府列有木栈道、步�
 
 ## 7. 预约与临近复核清单
 
+<!-- booking-overview:start -->
+### 预订概览
+
+当前链接为预订／查询入口，可替换为电子票或订单链接。
+
+| 日期 | 项目 | 人数／安排 | 链接 |
+| --- | --- | --- | --- |
+| 12/4–12/12 | Reunion 一楼公寓 | 3 人 · 8 晚 | [查看](https://www.airbnb.cn/rooms/934030452168483857?check_in=2026-12-04&check_out=2026-12-12&adults=3) |
+| 12/9–12/12 | 周边游租车 | 取还点、供应商待定 · Alamo 查询入口 | [查看](https://www.alamo.com/) |
+| 12/5–12/7 | 环球三日门票 | 3 人 · 旧双园跨园 2 天＋Epic 1 天 | [查看](https://www.undercovertourist.com/orlando/universal-2-park-2-day-park-to-park-plus-1-day-epic-universe-ticket/) |
+| 12/5–12/7 | 环球三日 Express | 3 人 · 三园普通 Express | [查看](https://www.undercovertourist.com/orlando/universal-3-day-universal-express-pass-ticket/) |
+| 12/8 | EPCOT 一日门票 | 3 人 | [查看](https://disneyworld.disney.go.com/admission/tickets/theme-parks/) |
+| 12/8 | EPCOT Lightning Lane Multi Pass | 3 人 · 优先预约料理鼠王 | [查看](https://disneyworld.disney.go.com/lightning-lane-passes/) |
+| 12/8 | 银河护卫队 Single Pass | 3 人 · 单独购买 | [查看](https://disneyworld.disney.go.com/lightning-lane-passes/) |
+| 12/9 · 11:30 左右 | Silver Springs 短线 kayak | 3 人 · 时段待订 | [查看](https://silversprings.com/plan-your-day/paddling/) |
+| 12/10 · 上午 | King’s Landing · Emerald Cut | 3 人 · Day Paddle 原点往返 | [查看](https://www.kingslandingfl.com/daypaddlekayakrentals) |
+| 12/11 · B 路线 | The Ringling | 可选 · Sarasota 版 | [查看](https://www.ringling.org/) |
+| 12/11 · A 路线 | Winter Park Scenic Boat Tour | 可选 · 官网列先到先上船 | [查看](https://scenicboattours.com/) |
+
+<!-- booking-overview:end -->
+
 ### 现在先落实
 
 - [ ] 环球三日票：完整名称、三园包含范围、12/5–12/7 有效、改日规则、跨园权限。

@@ -1,0 +1,11 @@
+.booking-group{margin:0 0 16px;padding:20px;background:var(--paper);border:1px solid var(--line);border-radius:16px}
+.booking-group h3{margin:0 0 6px;font-size:18px}
+.booking-list{margin:0;padding:0;list-style:none}
+.booking-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:16px;align-items:center;padding:15px 0;border-top:1px solid var(--line)}
+.booking-row:first-child{border-top:0}
+.booking-main{min-width:0}
+.booking-title{display:block;font-size:15px;line-height:1.5;font-weight:700;color:var(--ink)}
+.booking-meta{display:block;margin-top:4px;font-size:12px;line-height:1.6;color:var(--muted)}
+.booking-link{display:flex;align-items:center;justify-content:center;min-height:44px;padding:9px 14px;white-space:nowrap;background:var(--mickey-black);color:var(--mickey-white);border-radius:10px;font-size:13px;text-decoration:none}
+.booking-link:hover{text-decoration:none;background:var(--mickey-red)}
+@media(max-width:720px){.booking-group{padding:16px}.booking-row{gap:10px}.booking-title{font-size:14px}.booking-link{padding:9px 11px}.booking-meta{font-size:12px}}
