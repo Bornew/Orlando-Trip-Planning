@@ -1,7 +1,7 @@
 # 奥兰多三人旅行计划
 
 **2026.12.04 周五晚入住 → 12.12 周六 18:30 从 MCO 乘国内航班离开**  
-**版本：行程规划 v7（Reunion 住宿＋每日项目图片）｜资料核对：2026.11.15｜所有时间为佛罗里达当地时间（EST）**
+**版本：行程规划 v8（环球每天一园＋Studios 全天）｜资料核对：2026.11.15｜所有时间为佛罗里达当地时间（EST）**
 
 > 这趟旅行的重点：Epic 完整一天，旧双园更偏重冒险岛；EPCOT 优先料理鼠王、银河护卫队和烟花；后半程每天一个自然主题，全程回同一间民宿。周边游才租车。
 >
@@ -15,7 +15,7 @@
 | 住宿 | 暂定 Reunion Resort 一楼三卧公寓，12/4–12/12 共 8 晚，全程不换住处；尚未确认预订 |
 | 抵达 | 12/4 周五晚上入住；抵达航班和具体时间未提供 |
 | 离开 | 12/12 周六 18:30，MCO 国内航班 |
-| 环球 | Universal Islands of Adventure、Universal Studios Florida、Universal Epic Universe；拟买 3 日票 |
+| 环球 | Universal Islands of Adventure、Universal Studios Florida、Universal Epic Universe；已确认每天一园，三天分别进入三园 |
 | 迪士尼 | 只去 EPCOT；不包含 Disney’s Hollywood Studios |
 | 交通 | 乐园期间 Uber/Lyft；12/9 开始租车做周边游 |
 | 偏好 | Epic ＞ 冒险岛 ＞ Universal Studios；保留拍照时间，后半程看风景 |
@@ -52,7 +52,7 @@
 | --- | --- | --- | --- |
 | 12/4 周五 | 抵达、入住、休息 | 不安排额外任务 | 打车 → 民宿 |
 | 12/5 周六 | **Islands of Adventure 冒险岛** | 完整乐园日；哈利波特与园区拍照 | 打车；回原民宿 |
-| 12/6 周日 | **Studios 半日＋冒险岛补刷（需跨园票）** | 古灵阁、对角巷；下午补喜欢的冒险岛项目 | 打车；回原民宿 |
+| 12/6 周日 | **Universal Studios Florida 全天** | 古灵阁、木乃伊、Bourne；下午园景与轻松项目 | 打车；回原民宿 |
 | 12/7 周一 | **Epic Universe＋Express** | 五个核心 ride、两场表演、白天与夜景 | 打车；回原民宿 |
 | 12/8 周二 | **EPCOT 双核心＋烟花** | 料理鼠王、银河护卫队；烟花提前 75 分钟找位 | 打车；回原民宿 |
 | 12/9 周三 | **Silver Springs 短线 kayak＋Ocala 午餐可选** | 上午取车；累了园内吃饭早回 | 开始租车；回原民宿 |
@@ -63,12 +63,12 @@
 ### 为什么这样排序
 
 - **冒险岛放第一天**：优先级第二，完整给一天，先完成一座很想去的园。
-- **周日 Studios 精选＋冒险岛补刷**：主路线需要跨园票；只买每天一园票则留 Studios。傍晚适时结束，为 Epic 保留睡眠。
+- **周日 Studios 全天**：已确认每天一园，整天留在 Studios。核心项目、拍照和午餐从容安排，傍晚适时结束，为 Epic 保留睡眠。
 - **Epic 放周一**：避开把最重视的园放在周末，且前一天可控制强度；这只是排程判断，不代表周一一定人少。
 - **环球连续三天使用**：比穿插休息日更容易匹配票的使用窗口；购买前仍必须核对票种。
 - **EPCOT 周二收尾**：之后全部切到自然风景；不再在后半程补一个高强度乐园。
 
-**实际取舍：前四天仍是连续乐园日。** 本版通过控制周日补刷数量、每天坐下吃饭、使用合适的 Express 控制强度。如果三人中有人不适合连走四天，可用文末“恢复优先版”，代价是取消 Sarasota 长途日。
+**实际取舍：前四天仍是连续乐园日。** 本版通过控制周日附加项目数量、每天坐下吃饭、使用合适的 Express 控制强度。如果三人中有人不适合连走四天，可用文末“恢复优先版”，代价是取消 Sarasota 长途日。
 
 ## 3. 先看门票，避免计划建立在错误票种上
 
@@ -80,13 +80,13 @@
 
 - [ ] 明确包含 **Epic Universe、Islands of Adventure、Universal Studios Florida** 三园。
 - [ ] 使用窗口覆盖 **12/5、12/6、12/7**；Epic 如须单独选日，选择 **12/7**。
-- [ ] 推荐 **Park-to-Park 跨园**，才能执行周日 Studios＋冒险岛；每天一园票则用周日一园备选。
+- [ ] 已确认 **每天一园**：12/5 冒险岛、12/6 Studios、12/7 Epic；不安排同日换园。
 - [ ] 是否能改日期、是否有额外预约要求；天气换日是否允许。
 - [ ] 已确定计划购买 Express；逐日确认日期、覆盖园区、一次或 Unlimited，海格另查。
 
-**霍格沃茨列车需要能在同日进入 Studios 和冒险岛的 Park-to-Park 权限。** 单园日票即使有三天，也不能据此乘车跨园。它只连接这两个园，不去 Epic。[霍格沃茨列车官方说明](https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/hogwarts-express?intsrch=new)
+**当前票种：每天一园。** 环球三天各进一园，不再建议升级跨园票。**霍格沃茨特快列车不列入行程**，乘车需要 Park-to-Park 权限；在伦敦区拍街景即可。[官方列车说明](https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/hogwarts-express)
 
-**本版建议：** 为把更多时间交给冒险岛，优先比较包含 Epic 的三日 Park-to-Park 票；若不升级，就一天一园，并把周六核心项目排在最前。Express 和跨园门票需分别核对。
+**周六优先完成海格、迅猛龙、绿巨人。** 周日不能返回冒险岛补项目；Express 的覆盖范围不改变入园权限。
 
 ### EPCOT
 
@@ -96,46 +96,21 @@
 
 ### 三人票价与购票方案｜2026/11/15 查询
 
-**已按三名 10 岁以上成人报价；你们已确认三人均符合美国／加拿大居民促销资格。** 环球按 **12/5 起、12/5–12/7 使用**，EPCOT 按 **12/8**。金额均为美元；下面明确区分“选定日期看到的含税报价”和“未开放购买的 LL 预算”，没有代下单。
+**票种已修正为每天一园。** 环球门票的实际产品名称和支付金额尚未填入；此前查询的跨园票价格不适用于你们当前门票，不再作为购票推荐或计算全程合计。环球门票入口现改为官网，之后可替换为你们的票券链接。
 
-#### 先看三人总价
+#### 当前三人预算
 
-| 方案 | 三人金额 | 价格状态与限制 |
+| 项目 | 三人金额 | 状态 |
 | --- | --- | --- |
-| **环球：标准三日跨园票＋三日三园普通 Express** | **$2,857.38 含税** | 已在日期选为 12/5 的代理商页面看到单价；三园跨园更灵活 |
-| **环球：旧双园跨园两天＋Epic 一天促销票＋三日三园普通 Express** | **$2,708.73 含税** | **优先推荐比较这组**，完全匹配目前路线；比上面省 **$148.65／三人**。Epic 那一天不能跨去旧双园 |
-| **环球省钱备选：同一促销门票＋两日三园普通 Express** | **$2,344.50 含税** | 三天都有入园门票，但 Express 只用 **12/5、12/7**，12/6 普通排队；比三日 Express 再省 **$364.23／三人** |
-| **EPCOT：12/8 三张一日一园门票** | **$587.88 含税** | 已在迪士尼官方选定日期、EPCOT、三名成人后看到小计；不包含 LL |
-| **EPCOT：以上门票＋Multi Pass＋Guardians Single Pass** | **预算 $731.66–811.53／三人，含预估税** | **门票价已核，12/8 LL 确价尚未核到**；其中两种 LL 合计暂留 $143.78–223.65／三人含预估税 |
-| **当前推荐的两家合计：环球促销票＋三日 Express＋EPCOT＋两种 LL** | **预算 $3,440.39–3,520.26／三人** | 环球和 EPCOT 门票按已查报价，LL 用预算；不含打车、餐饮、住宿、租车等 |
+| 环球三天每天一园门票 | 待填实际票款 | 12/5 冒险岛、12/6 Studios、12/7 Epic；不跨园 |
+| 三日三园普通 Express | 查询参考 $1,522.02 含税 | 11/15 选 12/5 起查到的报价；按各日园区使用，最终核对产品与日期 |
+| EPCOT 12/8 一日门票 | 查询参考 $587.88 含税 | 11/15 官方三名成人小计 |
+| EPCOT 门票＋Multi Pass＋Guardians Single Pass | 预算 $731.66–811.53／三人 | 门票为已查报价，两种 LL 为预算 |
+| 全程门票与快速通行合计 | 待环球实际票款后更新 | 不再沿用跨园票组合的旧总额 |
 
-上述“推荐”是**本次已核对组合中更贴合路线的选择**，不代表全网最低价。环球官方日期购物页本次未能完整加载，故不将代理商的“对比门市省多少”当作独立核实的官网售价。付款前在官网与代理商都选同日期、同人数、同权限，比较最终含税总额。
+[环球官方门票入口](https://www.universalorlando.com/web/en/us/tickets-packages/park-tickets) · [三日三园普通 Express 查询入口](https://www.undercovertourist.com/orlando/universal-3-day-universal-express-pass-ticket/)
 
-#### 环球价格明细与直接购票链接
-
-| 产品 | 单人含税 | 三人含税 | 购票入口与选项 |
-| --- | --- | --- | --- |
-| 标准 **Universal 3-Day (Park-to-Park)** | **$445.12** | **$1,335.36** | [Undercover Tourist 标准三日跨园票](https://www.undercovertourist.com/orlando/universal-3-day-park-to-park-ticket/)；选 **Dec 5, 2026／Adult 10+ ×3** |
-| **2-Day (Park-to-Park) PLUS 1-Day Epic (PROMO)** | **$395.57** | **$1,186.71** | [旧双园两日跨园＋Epic 一日促销票](https://www.undercovertourist.com/orlando/universal-2-park-2-day-park-to-park-plus-1-day-epic-universe-ticket/)；选 **Dec 5, 2026／Adult 10+ ×3** |
-| **3-Day 3-Park Universal Express Pass**，普通版 | **$507.34** | **$1,522.02** | [三日三园 Express](https://www.undercovertourist.com/orlando/universal-3-day-universal-express-pass-ticket/)；选 **Dec 5, 2026／Express All Ages ×3**；不是 Unlimited |
-| **2-Day 3-Park Universal Express Pass**，普通版 | **$385.93** | **$1,157.79** | [两日三园 Express](https://www.undercovertourist.com/orlando/universal-2-day-universal-express-pass-ticket/)；选 **Dec 5, 2026** 起的使用窗口，计划用在 12/5 与 12/7 |
-
-**这些报价来自已经选定日期的产品侧栏，不是日历里的“每天均价”，也不是页面未选日期时的 from 起价。** 页面显示税已含，不要再把税重复加一次；最终以付款页、数量和即时库存为准。单价乘三为本表三人金额，未扣任何宣传赠品。
-
-**有效期区别：** 本次查看的标准三日门票与三日 Express 为 **12/5–12/9 五日窗口内任选三天**；两日 Express 为 **12/5–12/8 四日窗口内任选两天**；促销入园票为 **12/5–12/11 七日窗口**，其中旧双园两天跨园，Epic 在另一天单独使用。均覆盖当前行程，但门票和 Express 要分别满足各自窗口。[标准票条款](https://www.undercovertourist.com/orlando/universal-3-day-park-to-park-ticket/) · [促销票条款](https://www.undercovertourist.com/orlando/universal-2-park-2-day-park-to-park-plus-1-day-epic-universe-ticket/) · [三日 Express 条款](https://www.undercovertourist.com/orlando/universal-3-day-universal-express-pass-ticket/) · [两日 Express 条款](https://www.undercovertourist.com/orlando/universal-2-day-universal-express-pass-ticket/)
-
-#### 环球怎么买更划算
-
-1. **门票优先比较“旧双园两日跨园＋Epic 一日”促销票。** 12/5 冒险岛、12/6 Studios＋冒险岛、12/7 独立 Epic，权限正好够用；三人省 $148.65。若你们想在三天里自由多次进 Epic，或 Epic 当日也回旧双园，就选标准三日跨园。
-2. **三天都想省排队，就按三日三园普通 Express 比价。** 不默认需要 Unlimited；你们已把更重要的目标分到三天，重复体验可按余量安排。要同日多刷绿巨人／迅猛龙，再比较旧双园 Unlimited 的日期报价，本次未核到该升级的指定日期总额。
-3. **愿意周日慢一点才选两日 Express。** 用在最重要的 12/5 冒险岛与 12/7 Epic；12/6 古灵阁、木乃伊等走普通队，下午补刷随实际等待取舍。它确实省 $364.23，但不等价于“三天都有 Express”。原每日安排默认三日都有，采用省钱版须按本条调整。
-4. **不要用 $99／天的三园单园促销替代跨园票。** 官方也有旧双园跨园两天＋Epic 一天 **$357 税前起**的产品，值得选你们日期复核；这里的起价不能直接当作 12/5 售价。[环球官方促销与升级说明](https://www.universalorlando.com/web/en/us/tickets-packages/deals-specials)
-5. **赠送的 DiningDollars.com credit 不等于现金票款折扣。** 本次总额没有减掉这些 credit；要额外买礼品卡时再看兑换限制，不能默认能拿来支付代理商购物车里的门票或 Express。
-6. **不为“多送两天”临时增加乐园。** 只有同日期、同权限的最终价格更低才买加赠天数产品；你们后半程的休息与风景安排仍保留。计划全程住 Reunion 民宿，不把另订酒店的 Express 权益算作无成本节省。
-
-**海格需再确认：本次看到信息冲突。** 代理商 Express 产品清单列有 Hagrid’s，但环球官网 FAQ 仍将它列为不适用；出发前以所购产品最新条款、官方客服和现场为准。本版继续给海格保留普通队缓冲，不承诺这张 Express 一定覆盖它。[代理商清单](https://www.undercovertourist.com/orlando/universal-3-day-universal-express-pass-ticket/) · [官方 Express 条款](https://www.universalorlando.com/web/en/us/tickets-packages/express-passes)
-
-**官方比价入口：** [环球门票](https://www.universalorlando.com/web/en/us/tickets-packages/park-tickets) · [官方 Express](https://www.universalorlando.com/web/en/us/tickets-packages/express-passes) · [官方促销](https://www.universalorlando.com/web/en/us/tickets-packages/deals-specials)。购票时核对 **Orlando，非 Hollywood**；门票是否跨园，与 Express 覆盖哪些园，是两件事。
+**Express 按各日园区匹配：** 12/5 冒险岛、12/6 Studios、12/7 Epic。三日产品若覆盖三园，仍须满足入园门票的每天一园规则；Express 不能用来跨园。海格是否适用仍以所购产品的最新条款与现场为准。
 
 #### EPCOT 门票＋Lightning Lane 多少钱
 
@@ -164,7 +139,7 @@ LL 预算参考近期价格记录后留出余量，税按本次官方门票小�
 | 使用日 | 园区 | 打开当日排队页面 | 主要看什么 |
 | --- | --- | --- | --- |
 | **12/5 周六** | 冒险岛 | [冒险岛实时队列](https://queue-times.com/en-US/parks/64/queue_times) | 海格、迅猛龙、绿巨人是否运行，决定先后顺序 |
-| **12/6 周日** | Studios＋冒险岛 | [Studios 实时队列](https://queue-times.com/en-US/parks/65/queue_times) · [冒险岛实时队列](https://queue-times.com/en-US/parks/64/queue_times) | 古灵阁、木乃伊；跨园前看补刷目标是否值得过去 |
+| **12/6 周日** | Universal Studios Florida | [Studios 实时队列](https://queue-times.com/en-US/parks/65/queue_times) | 古灵阁、木乃伊运行情况，Bourne／巡游场次查官方 App |
 | **12/7 周一** | Epic | [Epic 实时队列](https://queue-times.com/en-US/parks/334/queue_times) | 魔法部、咚奇刚、Stardust 等；两场表演时间仍查官方 App |
 | **12/8 周二** | EPCOT | [EPCOT 实时队列](https://queue-times.com/en-US/parks/5/queue_times) | 两个核心与附加项目；LL 回场时间与烟花时间查 My Disney Experience |
 
@@ -189,9 +164,9 @@ LL 预算参考近期价格记录后留出余量，税按本次官方门票小�
 
 ### 环球三天怎么玩｜Express 版
 
-**推荐：12/5 冒险岛完整一天；12/6 Studios 半天＋冒险岛补刷；12/7 Epic 完整一天。** 这更贴近你们 Epic ＞ 冒险岛 ＞ Studios 的喜好。
+**已确认：12/5 冒险岛一天；12/6 Studios 一天；12/7 Epic 一天。** 每天只进当天的一座园，保留拍照、用餐和休息时间。
 
-**票务前提：周日跨园需要 Park-to-Park 入园权限。** 如果最终买的是每天一园票，周日就只玩 Studios，不跨园，周六优先完成冒险岛三个核心项目。Express 不代替门票，也不赋予跨园权限。
+**票务前提：三人都是每天一园票。** 周日不返回冒险岛，也不乘坐霍格沃茨特快列车。周六完成冒险岛三个核心，周日集中玩 Studios。
 
 #### 朋友建议对应的项目名
 
@@ -216,7 +191,7 @@ LL 预算参考近期价格记录后留出余量，税按本次官方门票小�
 | 日期 | 建议匹配的 Express | 注意 |
 | --- | --- | --- |
 | 12/5 | 冒险岛当日 Express；想同日多次刷绿巨人／迅猛龙，可比较 Unlimited | 普通版通常每个参与项目一次；Unlimited 是否值得取决于重刷意愿与价差 |
-| 12/6 | 若按跨园路线且希望两园都用 Express，选择覆盖 Studios＋冒险岛的当日产品 | 不要只买 Studios Express 后默认下午冒险岛也能用；也可下午普通排队 |
+| 12/6 | Studios 当日适用的 Express，或三日产品中这一天的 Studios 权限 | 只在 Studios 使用；不安排冒险岛补玩 |
 | 12/7 | **Epic 当日 Universal Express**，三人分别购买／绑定 | 目前官方列 Epic 不提供 Unlimited；同一项目第二次不能默认继续走 Express |
 
 **海格单独处理：** 2026/11/15 核价时发现代理商 Express 清单列有海格，而官网 FAQ 仍列为不适用，信息有冲突。因此本版保留普通排队缓冲；购买时向官方／商家核对具体产品，现场再确认，不承诺一定覆盖。以上票种与限制见[环球官方 Express 页面](https://www.universalorlando.com/web/en/us/tickets-packages/express-passes)。
@@ -259,16 +234,16 @@ LL 预算参考近期价格记录后留出余量，税按本次官方门票小�
 | 午餐后先散步 | 走到 Jurassic 区，喝水、拍园景 | 不刚吃饱就连续坐强刺激项目 |
 | 下午第一段 | **VelociCoaster 迅猛龙** | 使用适用 Express；第一次满意且不想重刷，就把后面时间留园景 |
 | 下午第二段 | **Hulk 绿巨人＋Spider-Man 可选** | 使用适用 Express；两项刺激项目之间穿插休息 |
-| 约 16:00–17:00 | Port of Entry、Seuss Landing 或喜欢的区域拍照 | 留 30–45 分钟；控制折返，周日有跨园票还可回来 |
+| 约 16:00–17:00 | Port of Entry、Seuss Landing 或喜欢的区域拍照 | 留 30–45 分钟；控制折返，今天完成冒险岛的项目与照片 |
 | 入夜后、关园前 | Hogsmeade 节日灯光／城堡外观；有精力再看海格等待情况 | 不把海格第一次留到关园前赌运行；是否二刷由体力和真实排队决定 |
 
-**如果海格已显示很长等待：** 先确认三人是否愿意把约 2 小时交给它；不愿等就先完成附近项目，下午再查。周日跨园补刷是后备机会，不能保证届时更短或一定开放。
+**如果海格已显示很长等待：** 先确认三人是否愿意把约 2 小时交给它；不愿等就先完成附近项目，下午再查。冒险岛只安排这一天，海格若仍未完成，就从今天的附加项目中腾时间，不挪到周日。
 
 **午餐建议：Three Broomsticks 三把扫帚。** 位于 Hogsmeade，英式简餐与主题环境适合在这段路线吃午餐。按菜单选 Fish and Chips、Shepherd’s Pie 或其他个人主食；三人不必为了套餐硬点超量。[官方餐厅与菜单](https://www.universalorlando.com/web/en/us/things-to-do/dining/three-broomsticks)
 
 **晚餐：** 关园和打车时间确定后就近解决，或回民宿吃；不另订一个必须准点赶到的远餐厅。12 月不主动加容易湿透的水上项目。
 
-### 12/6 周日｜Studios 精选半日＋冒险岛补刷
+### 12/6 周日｜Studios 全天：古灵阁＋木乃伊＋Bourne＋街景拍照
 
 <!-- project-photos:start -->
 #### 当天项目图片
@@ -282,35 +257,32 @@ LL 预算参考近期价格记录后留出余量，税按本次官方门票小�
 | **木乃伊复仇**<br>![木乃伊复仇：项目与景观参考图](assets/photos/mummy.jpg) | 优先 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/10-things-you-have-to-do-at-universal-studios/) |
 | **Bourne 特技秀**<br>![Bourne 特技秀：项目与景观参考图](assets/photos/bourne.jpg) | 可选表演 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/10-things-you-have-to-do-at-universal-studios/) |
 | **破釜酒吧午餐**<br>![破釜酒吧午餐：项目与景观参考图](assets/photos/leaky-cauldron.jpg) | 午餐 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/ultimate-guide-wizarding-world-harry-potter-universal-orlando-resort/amp/) |
-| **霍格沃茨特快列车**<br>![霍格沃茨特快列车：项目与景观参考图](assets/photos/hogwarts-express.jpg) | 跨园可选 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/ultimate-guide-wizarding-world-harry-potter-universal-orlando-resort/amp/) |
+| **E.T. Adventure**<br>![Universal Studios Florida 的 E.T. Adventure 入口](assets/photos/et-adventure.jpg) | 下午可选 · 轻松项目 · [Universal Orlando Resort](https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/et-adventure) |
 
 <!-- project-photos:end -->
 
 
-**当日排队：** [Studios 实时队列](https://queue-times.com/en-US/parks/65/queue_times) · [冒险岛实时队列](https://queue-times.com/en-US/parks/64/queue_times)。跨园前先查目标运行情况。
+**当日排队：** [Studios 实时队列](https://queue-times.com/en-US/parks/65/queue_times)。表演与巡游场次看 Universal 官方 App。
 
-**主线：Studios 看对角巷与两三个代表体验；下午把额外时间交给更喜欢的冒险岛。**  
-**跨园前提：Park-to-Park 门票。** 没有跨园权限时，按本节末尾的一园版执行。
+**主线：今天只去 Universal Studios Florida。** 古灵阁、木乃伊和 Bourne 优先；午餐坐下休息，下午在本园慢逛、拍照，有余量再加 E.T.。傍晚尽量早点回民宿，为周一 Epic 留体力。
 
-| 时段 | 安排 | 为什么这样排 |
+| 时段 | 安排 | 执行细节 |
 | --- | --- | --- |
-| 正式开园前后 | 到环球下客区，进入 **Universal Studios Florida** | 今天有跨园安排，不采用原版 10:00 才到的晚出门思路 |
-| 开园后第一段 | **Gringotts 古灵阁＋对角巷** | ride 用适用 Express；街景与店铺拍照留 45–60 分钟 |
-| 上午后段 | **Revenge of the Mummy** | 作为 Studios 第二个主项目；不再排一串相似模拟器 |
-| 午间前后 | **The Bourne Stuntacular 可选** | 有合适场次就看；若需多等一小时，先比较是否更想去冒险岛 |
-| 约 12:00–13:00 | **Leaky Cauldron 午餐**，或依场次移动 | 至少坐下 45 分钟；午餐地点和演出顺序可交换，留园内步行时间 |
-| 约 13:00–14:00 | **跨园一次：Studios → 冒险岛** | 想坐 Hogwarts Express 就从伦敦区乘车；排队长也可出园经 CityWalk 步行。跨园整体留约 45–60 分钟 |
-| 下午前段 | 补周六遗漏的 **海格／迅猛龙／绿巨人** | 优先补没完成的，再考虑重刷；海格若要长排，这个下午就围绕它安排 |
-| 下午后段 | 喜欢的园区再拍照，或用合适票种补一个项目 | 当日 Express 覆盖哪一园就按该园权限使用；不是所有票都能多次走快队 |
-| 约 17:30–18:30 | 视两园当天开放时间结束，打车回民宿 | 目标是今晚早点休息，为 Epic 留状态，不要求留到关园 |
+| 正式开园前约 30–45 分钟 | 到环球指定下客区，安检并进入 **Studios** | 不按酒店提前入园资格规划；从 Reunion 出发另留叫车和路程缓冲 |
+| 开园后第一段 | **Gringotts 古灵阁** | 使用适用 Express；完成今天最重要的 ride |
+| 上午后段 | **对角巷、伦敦街景与店铺拍照** | 单独留 45–60 分钟；三人合照先拍，不排霍格沃茨列车 |
+| 午前 | **Revenge of the Mummy 木乃伊** | 使用适用 Express；不为多刷项目取消午餐 |
+| 约 12:00–13:00 | **Leaky Cauldron 破釜酒吧午餐** | 至少坐下 45 分钟；若木乃伊与餐厅折返不顺，交换午餐和木乃伊顺序 |
+| 约 13:00–14:30 | **The Bourne Stuntacular** | 按当天实际场次调整，提前到入口；若场次较晚，先做附近拍照或休息 |
+| 下午中段 | **E.T. Adventure 可选**＋Hollywood／New York 街景 | E.T. 是较缓和的骑乘备选；等太久就只拍照、咖啡休息，不新增一串模拟器 |
+| 下午后段 | 对角巷补拍、商店，或当天假日巡游 | 巡游只在当天运营且场次衔接时看；以官方 App 为准，不为等它硬熬到很晚 |
+| 约 17:30–18:30 | 看关园时间与体力，结束并打车回 Reunion | 轻晚餐在园内或回民宿解决；不去冒险岛，今晚以休息为主 |
 
-**Studios 项目优先级：古灵阁 → 木乃伊 → Bourne；其余随缘。** 表演具体场次以 App 为准；假日巡游若与你们更想重刷的冒险岛冲突，本版优先冒险岛，不来回跨园追巡游。
+**项目优先级：古灵阁 → 木乃伊 → Bourne → 街景拍照 → E.T.／巡游可选。** 如果古灵阁排队拖长，先删 E.T. 和额外购物，保留午餐、拍照和休息。
 
-**午餐建议：Leaky Cauldron 破釜酒吧。** 位于对角巷，选英式热餐或轻一些的主食；如果先看 Bourne，再回这里会有步行折返，要把它计入时间，不能按“演出散场马上入座”安排。[官方餐厅与菜单](https://www.universalorlando.com/web/en/us/things-to-do/dining/leaky-cauldron)
+**午餐：Leaky Cauldron 破釜酒吧。** 位于对角巷；三人按食量选英式热餐或较轻主食。若下午演出已确定，围绕场次安排午餐，给步行留时间。[餐厅与菜单](https://www.universalorlando.com/web/en/us/things-to-do/dining/leaky-cauldron)
 
-**Hogwarts Express：** 仅连接旧双园，不连接 Epic；乘车仍需同日两园入园权限。[官方列车说明](https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/hogwarts-express?intsrch=new)
-
-**如果是每天一园票：** 周日整天留 Studios：上午古灵阁、对角巷；午餐后木乃伊／Bourne，下午电影街景与室内休息，傍晚看能衔接的假日巡游。周六必须优先做完三个冒险岛核心，不把补刷当作确定存在。
+**霍格沃茨特快列车不安排。** 你们的每天一园票不包含乘车所需的跨园权限。[官方列车说明](https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/hogwarts-express) · [E.T. 官方项目页](https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/et-adventure)
 
 ### 12/7 周一｜Epic：五个核心 ride＋两场表演＋夜景
 
@@ -823,7 +795,7 @@ Palm Island 的地址为 **411 S Tremain St**，市政府列有木栈道、步�
 | --- | --- | --- | --- |
 | 12/4–12/12 | Reunion 一楼公寓 | 3 人 · 8 晚 | [查看](https://www.airbnb.cn/rooms/934030452168483857?check_in=2026-12-04&check_out=2026-12-12&adults=3) |
 | 12/9–12/12 | 周边游租车 | 取还点、供应商待定 · Alamo 查询入口 | [查看](https://www.alamo.com/) |
-| 12/5–12/7 | 环球三日门票 | 3 人 · 旧双园跨园 2 天＋Epic 1 天 | [查看](https://www.undercovertourist.com/orlando/universal-2-park-2-day-park-to-park-plus-1-day-epic-universe-ticket/) |
+| 12/5–12/7 | 环球三天门票 · 每天一园 | 3 人 · 12/5 冒险岛、12/6 Studios、12/7 Epic | [查看](https://www.universalorlando.com/web/en/us/tickets-packages/park-tickets) |
 | 12/5–12/7 | 环球三日 Express | 3 人 · 三园普通 Express | [查看](https://www.undercovertourist.com/orlando/universal-3-day-universal-express-pass-ticket/) |
 | 12/8 | EPCOT 一日门票 | 3 人 | [查看](https://disneyworld.disney.go.com/admission/tickets/theme-parks/) |
 | 12/8 | EPCOT Lightning Lane Multi Pass | 3 人 · 优先预约料理鼠王 | [查看](https://disneyworld.disney.go.com/lightning-lane-passes/) |
@@ -837,7 +809,7 @@ Palm Island 的地址为 **411 S Tremain St**，市政府列有木栈道、步�
 
 ### 现在先落实
 
-- [ ] 环球三日票：完整名称、三园包含范围、12/5–12/7 有效、改日规则、跨园权限。
+- [ ] 环球三日票：完整名称、三园包含范围、12/5–12/7 有效、每天一园及改日规则。
 - [ ] EPCOT：12/8 票；核对预约要求，提前关联三人 My Disney Experience。
 - [ ] 若决定购买迪士尼 LL：按民宿＋单日日期票当前窗口，12/5 07:00 EST 查看 Guardians Single Pass 与 Multi Pass 的 Remy；核对三人时段，勿与环球 Express 混淆。
 - [ ] 租车：12/9 附近取车的营业时间，比较 12/12 MCO 还与 12/11 本地还的总成本。
@@ -891,7 +863,7 @@ Palm Island 的地址为 **411 S Tremain St**，市政府列有木栈道、步�
 
 | 用途 | 链接 |
 | --- | --- |
-| 环球促销购票 | [旧双园两日跨园＋Epic 一日](https://www.undercovertourist.com/orlando/universal-2-park-2-day-park-to-park-plus-1-day-epic-universe-ticket/) |
+| 环球门票／票券 | [官方门票入口；之后替换为每天一园票券](https://www.universalorlando.com/web/en/us/tickets-packages/park-tickets) |
 | 三日 Express | [三日三园 Express](https://www.undercovertourist.com/orlando/universal-3-day-universal-express-pass-ticket/) |
 | EPCOT 购票 | [官方日期选择器](https://disneyworld.disney.go.com/admission/tickets/theme-parks/) |
 | Disney LL | [产品与购买规则](https://disneyworld.disney.go.com/lightning-lane-passes/) |
