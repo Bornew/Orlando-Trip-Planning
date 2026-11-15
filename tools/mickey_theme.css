@@ -1,0 +1,98 @@
+/* Classic Mickey palette: ink, red shorts, yellow shoes, warm white. */
+:root {
+  --mickey-black: oklch(0.19 0.005 70);
+  --mickey-red: oklch(0.54 0.205 27);
+  --mickey-red-dark: oklch(0.43 0.16 27);
+  --mickey-yellow: oklch(0.89 0.146 91);
+  --mickey-cream: oklch(0.974 0.014 91);
+  --mickey-white: oklch(0.995 0.003 91);
+  --mickey-muted: oklch(0.45 0.012 70);
+  --bg: var(--mickey-cream);
+  --paper: var(--mickey-white);
+  --paper-strong: oklch(0.97 0.039 91);
+  --ink: var(--mickey-black);
+  --muted: var(--mickey-muted);
+  --line: oklch(0.87 0.015 80);
+  --line-strong: oklch(0.76 0.02 80);
+  --teal: var(--mickey-red);
+  --teal-dark: var(--mickey-red-dark);
+  --coral: var(--mickey-red);
+  --gold: var(--mickey-yellow);
+  --sky: var(--mickey-black);
+  --lava: var(--mickey-red-dark);
+  --warn: var(--mickey-red-dark);
+  --green-soft: oklch(0.965 0.017 27);
+  --blue-soft: oklch(0.95 0.012 80);
+  --gold-soft: oklch(0.97 0.039 91);
+  --red-soft: oklch(0.965 0.017 27);
+  --shadow: 0 3px 8px oklch(0.19 0.005 70 / 0.025), 0 16px 36px oklch(0.19 0.005 70 / 0.06);
+}
+body { background: var(--bg); color: var(--ink); }
+a { color: var(--mickey-red-dark); }
+.hero {
+  background: var(--mickey-black);
+  border-bottom: 6px solid var(--mickey-red);
+  color: var(--mickey-white);
+}
+.hero p { color: oklch(0.94 0.012 91); }
+.hero .eyebrow {
+  background: oklch(0.995 0.003 91 / 0.08);
+  border-color: oklch(0.995 0.003 91 / 0.28);
+  color: var(--mickey-white);
+}
+.hero-art { opacity: 0.5; }
+.panel, .card, details, .day-card {
+  background: var(--paper);
+  border-color: var(--line);
+}
+.view-banner {
+  background: var(--gold-soft);
+  border-color: var(--line);
+}
+.stat { background: var(--paper-strong); border-color: var(--line); }
+.stat strong { color: var(--mickey-red-dark); }
+.route-line span {
+  background: var(--mickey-cream);
+  border-color: var(--line);
+  color: var(--ink);
+}
+.nav-strip { background: linear-gradient(180deg, var(--bg) 75%, oklch(0.974 0.014 91 / 0)); }
+.nav-strip a { background: var(--paper); color: var(--ink); border-color: var(--line-strong); }
+.nav-strip a[aria-current="page"] { background: var(--mickey-black); color: var(--mickey-white); border-color: var(--mickey-black); }
+.time-chip { background: var(--mickey-yellow); color: var(--mickey-black); }
+.overview-row { color: var(--ink); border-color: var(--line); }
+.overview-row:hover { background: var(--gold-soft); }
+.day-pill { background: var(--paper); color: var(--ink); border-color: var(--line-strong); }
+.day-pill span { color: var(--mickey-red-dark); }
+.day-pill.is-active { background: var(--mickey-red); color: var(--mickey-white); border-color: var(--mickey-red); }
+.day-pill.is-active span { color: var(--mickey-white); }
+.date-box { background: var(--mickey-red); color: var(--mickey-white); }
+.date-box .month, .date-box .weekday { color: var(--mickey-white); }
+.badge, .badge.pending { background: var(--mickey-yellow); color: var(--mickey-black); border-color: oklch(0.8 0.13 91); }
+.badge.flex { background: var(--paper); color: var(--ink); border-color: var(--line-strong); }
+.badge.done { background: var(--mickey-black); color: var(--mickey-white); border-color: var(--mickey-black); }
+.badge.warning { background: var(--red-soft); color: var(--mickey-red-dark); border-color: oklch(0.8 0.08 27); }
+.prose .button, .button {
+  background: var(--mickey-black);
+  color: var(--mickey-white);
+  border-color: var(--mickey-black);
+}
+.prose .button:hover, .button:hover { background: var(--mickey-red-dark); color: var(--mickey-white); }
+.toolbar button { background: var(--paper); color: var(--ink); border-color: var(--line-strong); }
+.toolbar button:disabled { background: var(--mickey-cream); color: var(--mickey-muted); cursor: default; }
+.table-scroll { border-color: var(--line); }
+.table-scroll th { background: var(--mickey-yellow); color: var(--mickey-black); }
+.table-scroll th, .table-scroll td { border-color: var(--line); }
+.table-scroll tr:nth-child(even) td { background: var(--mickey-cream); }
+.check-item input { accent-color: var(--mickey-red); }
+blockquote { background: var(--gold-soft); border-color: var(--mickey-red); }
+.skip-link { background: var(--mickey-white); color: var(--mickey-red-dark); }
+a:focus-visible, button:focus-visible, input:focus-visible, .table-scroll:focus-visible {
+  outline-color: var(--mickey-red-dark);
+}
+@media print {
+  .hero { background: var(--paper); color: var(--ink); }
+  .hero p, .hero .eyebrow { color: var(--ink); }
+  .date-box { background: var(--gold-soft); color: var(--ink); }
+  .date-box .month, .date-box .weekday { color: var(--ink); }
+}

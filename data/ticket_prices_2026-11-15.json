@@ -1,0 +1,22 @@
+{
+  "checked_on": "2026-11-15",
+  "currency": "USD",
+  "guests": 3,
+  "age_band": "10+",
+  "us_canada_residents_confirmed_by_user": true,
+  "universal_start_date": "2026-12-05",
+  "universal_used_dates": ["2026-12-05", "2026-12-06", "2026-12-07"],
+  "epcot_date": "2026-12-08",
+  "quotes": [
+    {"item":"Universal 3-Day Park-to-Park","seller":"Undercover Tourist","per_person":445.12,"tax_included":true,"validity":"2026-12-05 through 2026-12-09; any 3 days","observed":"date-selected browser product page","url":"https://www.undercovertourist.com/orlando/universal-3-day-park-to-park-ticket/"},
+    {"item":"Universal 2-Day Park-to-Park PLUS 1-Day Epic PROMO","seller":"Undercover Tourist","per_person":395.57,"tax_included":true,"validity":"2026-12-05 through 2026-12-11; two old-park days plus one separate Epic day","eligibility":"US and Canadian residents","observed":"date-selected browser product page","url":"https://www.undercovertourist.com/orlando/universal-2-park-2-day-park-to-park-plus-1-day-epic-universe-ticket/"},
+    {"item":"3-Day 3-Park Universal Express","seller":"Undercover Tourist","per_person":507.34,"tax_included":true,"validity":"2026-12-05 through 2026-12-09; any 3 days","observed":"date-selected browser product page","url":"https://www.undercovertourist.com/orlando/universal-3-day-universal-express-pass-ticket/"},
+    {"item":"2-Day 3-Park Universal Express","seller":"Undercover Tourist","per_person":385.93,"tax_included":true,"validity":"2026-12-05 through 2026-12-08; any 2 days","observed":"date-selected browser product page","url":"https://www.undercovertourist.com/orlando/universal-2-day-universal-express-pass-ticket/"},
+    {"item":"EPCOT 1-Day 1-Park","seller":"Disney official","per_person_before_tax":184.00,"party_subtotal_before_tax":552.00,"party_tax":35.88,"party_total_with_tax":587.88,"observed":"December 8 selected, EPCOT selected, 3 ages 10+ selected; Current Selections subtotal","url":"https://disneyworld.disney.go.com/admission/tickets/theme-parks/"}
+  ],
+  "lightning_lane_dec8_confirmed_price": null,
+  "lightning_lane_budget_before_tax_per_person":{"multi_pass":[25,40],"guardians_single_pass":[20,30]},
+  "lightning_lane_budget_tax_multiplier":1.065,
+  "lightning_lane_reference_other_date":{"date":"2026-11-15","source":"SupaPark tracker, not Disney checkout verification","multi_pass":32,"guardians_single_pass":23,"url":"https://supapark.com/lightning-lane/multi-pass/prices"},
+  "not_purchased":true
+}

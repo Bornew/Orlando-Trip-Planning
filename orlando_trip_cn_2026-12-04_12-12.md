@@ -1,7 +1,7 @@
 # 奥兰多三人旅行计划
 
 **2026.12.04 周五晚入住 → 12.12 周六 18:30 从 MCO 乘国内航班离开**  
-**版本：行程规划 v6（加入 Reunion 暂定住宿）｜资料核对：2026.11.15｜所有时间为佛罗里达当地时间（EST）**
+**版本：行程规划 v7（Reunion 住宿＋每日项目图片）｜资料核对：2026.11.15｜所有时间为佛罗里达当地时间（EST）**
 
 > 这趟旅行的重点：Epic 完整一天，旧双园更偏重冒险岛；EPCOT 优先料理鼠王、银河护卫队和烟花；后半程每天一个自然主题，全程回同一间民宿。周边游才租车。
 >
@@ -225,6 +225,24 @@ LL 预算参考近期价格记录后留出余量，税按本次官方门票小�
 
 ### 12/5 周六｜冒险岛：海格＋迅猛龙＋绿巨人
 
+<!-- project-photos:start -->
+#### 当天项目图片
+
+图片对应当天行程；“可选”和 A／B 路线仍按原计划取舍。图片为项目与景观参考，不代表当天运营、天气或观看位置。
+
+| 项目与图片 | 行程定位／图片来源 |
+| --- | --- |
+| **海格摩托**<br>![海格摩托：项目与景观参考图](assets/photos/hagrid.jpg) | 必玩 · [Universal Orlando Resort](https://blog.discoveruniversal.com/attractions/the-ultimate-guide-to-hagrids-magical-creatures-motorbike-adventure-at-universal-orlando-resort/) |
+| **禁忌之旅／霍格沃茨城堡**<br>![霍格沃茨城堡外观，禁忌之旅所在建筑](assets/photos/hogwarts.jpg) | 可选项目 · 拍照 · [Gregory Varnum / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Universal_Studios_Orlando_-_June_2018_(0211).jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 缩小尺寸并压缩 |
+| **迅猛龙过山车**<br>![迅猛龙过山车：项目与景观参考图](assets/photos/velocicoaster.jpg) | 必玩 · [Universal Orlando Resort](https://blog.discoveruniversal.com/attractions/complete-guide-to-jurassic-world-velocicoaster-at-universals-islands-of-adventure/amp/) |
+| **绿巨人过山车**<br>![绿巨人过山车：项目与景观参考图](assets/photos/hulk.jpg) | 必玩 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/complete-guide-to-universal-islands-of-adventure/amp/) |
+| **蜘蛛侠惊险历险**<br>![蜘蛛侠惊险历险：项目与景观参考图](assets/photos/spiderman.jpg) | 可选 · [Universal Orlando Resort](https://blog.discoveruniversal.com/attractions/the-complete-guide-to-the-amazing-adventures-of-spider-man/amp/) |
+| **Seuss Landing 园景**<br>![Seuss Landing 区域的 Thing 角色与主题场景](assets/photos/seuss.jpg) | 拍照 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/complete-guide-to-universal-islands-of-adventure/amp/) |
+| **三把扫帚午餐**<br>![三把扫帚 Great Feast 餐食参考，不代表必须点套餐](assets/photos/three-broomsticks.jpg) | 午餐参考 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/ultimate-guide-wizarding-world-harry-potter-universal-orlando-resort/amp/) |
+
+<!-- project-photos:end -->
+
+
 **当日排队：** [冒险岛实时队列](https://queue-times.com/en-US/parks/64/queue_times)。官方 App 优先；网页公布普通队等待，不是 Express 等待。
 
 **路线思路：** 正门 → Hogsmeade 海格与城堡 → 午餐 → Jurassic 迅猛龙 → Marvel 绿巨人／蜘蛛侠 → 傍晚园景。  
@@ -252,6 +270,23 @@ LL 预算参考近期价格记录后留出余量，税按本次官方门票小�
 
 ### 12/6 周日｜Studios 精选半日＋冒险岛补刷
 
+<!-- project-photos:start -->
+#### 当天项目图片
+
+图片对应当天行程；“可选”和 A／B 路线仍按原计划取舍。图片为项目与景观参考，不代表当天运营、天气或观看位置。
+
+| 项目与图片 | 行程定位／图片来源 |
+| --- | --- |
+| **古灵阁逃脱**<br>![古灵阁逃脱：项目与景观参考图](assets/photos/gringotts.jpg) | 优先 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/10-things-you-have-to-do-at-universal-studios/) |
+| **对角巷街景**<br>![对角巷街景：项目与景观参考图](assets/photos/diagon-alley.jpg) | 拍照 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/the-ultimate-thrill-seekers-guide-to-universal-orlando-resort/) |
+| **木乃伊复仇**<br>![木乃伊复仇：项目与景观参考图](assets/photos/mummy.jpg) | 优先 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/10-things-you-have-to-do-at-universal-studios/) |
+| **Bourne 特技秀**<br>![Bourne 特技秀：项目与景观参考图](assets/photos/bourne.jpg) | 可选表演 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/10-things-you-have-to-do-at-universal-studios/) |
+| **破釜酒吧午餐**<br>![破釜酒吧午餐：项目与景观参考图](assets/photos/leaky-cauldron.jpg) | 午餐 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/ultimate-guide-wizarding-world-harry-potter-universal-orlando-resort/amp/) |
+| **霍格沃茨特快列车**<br>![霍格沃茨特快列车：项目与景观参考图](assets/photos/hogwarts-express.jpg) | 跨园可选 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/ultimate-guide-wizarding-world-harry-potter-universal-orlando-resort/amp/) |
+
+<!-- project-photos:end -->
+
+
 **当日排队：** [Studios 实时队列](https://queue-times.com/en-US/parks/65/queue_times) · [冒险岛实时队列](https://queue-times.com/en-US/parks/64/queue_times)。跨园前先查目标运行情况。
 
 **主线：Studios 看对角巷与两三个代表体验；下午把额外时间交给更喜欢的冒险岛。**  
@@ -278,6 +313,27 @@ LL 预算参考近期价格记录后留出余量，税按本次官方门票小�
 **如果是每天一园票：** 周日整天留 Studios：上午古灵阁、对角巷；午餐后木乃伊／Bourne，下午电影街景与室内休息，傍晚看能衔接的假日巡游。周六必须优先做完三个冒险岛核心，不把补刷当作确定存在。
 
 ### 12/7 周一｜Epic：五个核心 ride＋两场表演＋夜景
+
+<!-- project-photos:start -->
+#### 当天项目图片
+
+图片对应当天行程；“可选”和 A／B 路线仍按原计划取舍。图片为项目与景观参考，不代表当天运营、天气或观看位置。
+
+| 项目与图片 | 行程定位／图片来源 |
+| --- | --- |
+| **魔法部之战**<br>![魔法部之战的室内主题场景](assets/photos/ministry.jpg) | 必玩 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/complete-guide-to-universal-epic-universe/) |
+| **Le Cirque Arcanus**<br>![Le Cirque Arcanus：项目与景观参考图](assets/photos/cirque.jpg) | 推荐表演 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/ultimate-guide-wizarding-world-harry-potter-universal-orlando-resort/amp/) |
+| **驯龙高手 Wing Gliders**<br>![驯龙高手 Wing Gliders：项目与景观参考图](assets/photos/wing-gliders.jpg) | 必玩 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/complete-guide-to-universal-epic-universe/) |
+| **The Untrainable Dragon**<br>![The Untrainable Dragon：项目与景观参考图](assets/photos/untrainable-dragon.jpg) | 推荐表演 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/complete-guide-to-universal-epic-universe/) |
+| **咚奇刚 Mine-Cart Madness**<br>![咚奇刚 Mine-Cart Madness：项目与景观参考图](assets/photos/donkey-kong.jpg) | 必玩 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/complete-guide-to-universal-epic-universe/) |
+| **Stardust Racers**<br>![Stardust Racers：项目与景观参考图](assets/photos/stardust.jpg) | 必玩 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/complete-guide-to-universal-epic-universe/) |
+| **狼人诅咒**<br>![狼人诅咒：项目与景观参考图](assets/photos/werewolf.jpg) | 室外核心 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/guide-to-dark-universe-in-universal-epic-universe/) |
+| **Monsters Unchained**<br>![Monsters Unchained 的预演场景](assets/photos/monsters.jpg) | 有余量再加 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/guide-to-dark-universe-in-universal-epic-universe/) |
+| **Celestial Park 园景**<br>![Celestial Park 与 Helios 酒店远景；夜景拍照地点参考](assets/photos/celestial.jpg) | 拍照 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/complete-guide-to-universal-epic-universe/) |
+| **Mead Hall 午餐**<br>![Mead Hall 午餐：项目与景观参考图](assets/photos/mead-hall.jpg) | 午餐 · [Universal Orlando Resort](https://blog.discoveruniversal.com/guides-and-tips/complete-guide-to-universal-epic-universe/) |
+
+<!-- project-photos:end -->
+
 
 **当日排队：** [Epic 实时队列](https://queue-times.com/en-US/parks/334/queue_times)。表演场次、Express 与临时停运以官方 App／现场为准。
 
@@ -321,6 +377,26 @@ LL 预算参考近期价格记录后留出余量，税按本次官方门票小�
 **现场信息来源：** [Epic 官方指南](https://blog.discoveruniversal.com/guides-and-tips/complete-guide-to-universal-epic-universe/) · [Express 覆盖与条款](https://www.universalorlando.com/web/en/us/tickets-packages/express-passes) · [魔法部表演官方页](https://www.universalorlando.com/web/en/us/things-to-do/shows/le-cirque-arcanus)
 
 ### 12/8 周二｜EPCOT：料理鼠王＋银河护卫队＋提前找位看烟花
+
+<!-- project-photos:start -->
+#### 当天项目图片
+
+图片对应当天行程；“可选”和 A／B 路线仍按原计划取舍。图片为项目与景观参考，不代表当天运营、天气或观看位置。
+
+| 项目与图片 | 行程定位／图片来源 |
+| --- | --- |
+| **料理鼠王**<br>![料理鼠王：迪士尼官方项目图片](assets/photos/remy.jpg) | 必玩 · [Disney](https://disneyworld.disney.go.com/attractions/epcot/remys-ratatouille-adventure/) |
+| **银河护卫队 Cosmic Rewind**<br>![银河护卫队 Cosmic Rewind：迪士尼官方项目图片](assets/photos/guardians.jpg) | 必玩 · [Disney](https://disneyworld.disney.go.com/attractions/epcot/guardians-of-the-galaxy-cosmic-rewind/) |
+| **Soarin’ Across America**<br>![Soarin’ Across America：迪士尼官方项目图片](assets/photos/soarin.jpg) | 推荐 · 官方主题图 · [Disney](https://disneyworld.disney.go.com/attractions/epcot/soarin-across-america/) |
+| **温室圣诞灯光船游**<br>![温室圣诞灯光船游：迪士尼官方项目图片](assets/photos/greenhouses.jpg) | 推荐 · [Disney](https://disneyworld.disney.go.com/attractions/epcot/glimmering-greenhouses/) |
+| **Moana 水之旅**<br>![Moana 水之旅：迪士尼官方项目图片](assets/photos/moana.jpg) | 顺路慢走 · [Disney](https://disneyworld.disney.go.com/attractions/epcot/journey-of-water/) |
+| **Spaceship Earth**<br>![Spaceship Earth：迪士尼官方项目图片](assets/photos/spaceship-earth.jpg) | 休息型备选 · [Disney](https://disneyworld.disney.go.com/attractions/epcot/spaceship-earth/) |
+| **Luminous 烟花**<br>![Luminous 烟花：迪士尼官方项目图片](assets/photos/luminous.jpg) | 提前找位 · [Disney](https://disneyworld.disney.go.com/entertainment/epcot/luminous-the-symphony-us/) |
+| **Candlelight Processional**<br>![Candlelight Processional：项目与景观参考图](assets/photos/candlelight.jpg) | 可选表演 · [Disney](https://disneyworld.disney.go.com/events-tours/epcot/holiday-festival-entertainment/) |
+| **Holiday Storytellers**<br>![Holiday Storytellers：项目与景观参考图](assets/photos/storytellers.jpg) | 路过短看 · [Disney](https://disneyworld.disney.go.com/events-tours/epcot/holiday-festival-entertainment/) |
+
+<!-- project-photos:end -->
+
 
 **当日排队：** [EPCOT 实时队列](https://queue-times.com/en-US/parks/5/queue_times)。LL 回场窗口与烟花开演时间看 My Disney Experience。
 
@@ -431,6 +507,19 @@ LL 预算参考近期价格记录后留出余量，税按本次官方门票小�
 
 ### 12/9 周三｜Silver Springs 清泉 kayak → Ocala 老城午餐
 
+<!-- project-photos:start -->
+#### 当天项目图片
+
+图片对应当天行程；“可选”和 A／B 路线仍按原计划取舍。图片为项目与景观参考，不代表当天运营、天气或观看位置。
+
+| 项目与图片 | 行程定位／图片来源 |
+| --- | --- |
+| **Silver Springs 短线 kayak**<br>![Silver Springs 短线 kayak：项目与景观参考图](assets/photos/silver-kayak.jpg) | 当天主线 · [Silver Springs State Park](https://silversprings.com/plan-your-day/paddling/) |
+| **Ocala 老城**<br>![Ocala 老城：项目与景观参考图](assets/photos/ocala.jpg) | 可选短逛 · [Ocala / Marion County](https://www.ocalamarion.com/blog/explore-historic-downtown-ocala/) |
+
+<!-- project-photos:end -->
+
+
 **今天看什么：** 清澈泉水、水下植物、树影和野生动物；上岸后坐下来吃一顿，再短逛老城。  
 **推荐路线：** 民宿 → 租车点 → Silver Springs 主入口 → Ivy on the Square 午餐 → Ocala Downtown Square → 民宿。  
 **强度：** 中低；水上约 2 小时，陆上慢走合计控制在 45–60 分钟。若前四天已累，午餐直接在园内解决并回民宿。
@@ -476,6 +565,19 @@ LL 预算参考近期价格记录后留出余量，税按本次官方门票小�
 **不想划的版本：** 换玻璃底船＋主泉庭园，船班另订；两种活动都会受运营及天气影响。Silver Springs 不安排下水游泳。[官方 FAQ](https://silversprings.com/frequently-asked-questions/)
 
 ### 12/10 周四｜King’s Landing 的 Emerald Cut → Mount Dora 湖边午餐与灯塔
+
+<!-- project-photos:start -->
+#### 当天项目图片
+
+图片对应当天行程；“可选”和 A／B 路线仍按原计划取舍。图片为项目与景观参考，不代表当天运营、天气或观看位置。
+
+| 项目与图片 | 行程定位／图片来源 |
+| --- | --- |
+| **King’s Landing · Emerald Cut**<br>![King’s Landing · Emerald Cut：项目与景观参考图](assets/photos/emerald-cut.jpg) | 当天主线 · [King’s Landing](https://www.kingslandingfl.com/daypaddlekayakrentals) |
+| **Mount Dora 灯塔与湖边**<br>![Mount Dora 红白灯塔与湖畔景观](assets/photos/mount-dora.jpg) | 可选短逛 · [Florida Lighthouse Association](https://www.floridalighthouses.org/faux-lighthouses/mount-dora-lighthouse/) |
+
+<!-- project-photos:end -->
+
 
 **今天看什么：** 上午是比较紧凑的清水森林，午后换成湖畔小镇。和周三的河景相比，今天更偏“清泉照片＋坐着吃饭＋湖边散步”。  
 **推荐路线：** 民宿 → King’s Landing → Pisces Rising 午餐 → 灯塔／老街二选一 → 民宿。  
@@ -532,6 +634,21 @@ Palm Island 的地址为 **411 S Tremain St**，市政府列有木栈道、步�
 **周四晚餐可选：Columbia Celebration 店。** 仅在你们民宿靠迪士尼／Celebration，且真想出门吃饭时考虑；若住环球北侧，先看导航再决定，不额外往南绕。地址 **649 Front St, Celebration**；官网列周四 **11:00–21:00**，湖边环境适合早晚餐，预算 **$30–50／人**。周五若会吃 Sarasota 同品牌店，这晚就换民宿附近简餐，避免重复。[官方分店与预订](https://www.columbiarestaurant.com/celebration)
 
 ### 12/11 周五｜Sarasota 博物馆＋海滩详版，或 Winter Park 恢复日
+
+<!-- project-photos:start -->
+#### 当天项目图片
+
+图片对应当天行程；“可选”和 A／B 路线仍按原计划取舍。图片为项目与景观参考，不代表当天运营、天气或观看位置。
+
+| 项目与图片 | 行程定位／图片来源 |
+| --- | --- |
+| **The Ringling 美术馆**<br>![The Ringling 美术馆：项目与景观参考图](assets/photos/ringling.jpg) | B · Sarasota 长途版 · [The Ringling](https://www.ringling.org/) |
+| **Lido Beach 海滩**<br>![Lido Beach 海滩景观](assets/photos/lido-beach.jpg) | B · Sarasota 长途版 · [Fred Hsu / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2017_Sarasota_Lido_Key_Beach_2_FRD_9567.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · 缩小尺寸并压缩 |
+| **Winter Park 湖区风景**<br>![Winter Park 湖区风景：项目与景观参考图](assets/photos/winter-park.jpg) | A · 轻松版 · [Scenic Boat Tours](https://www.scenicboattours.com/) |
+| **Scenic Boat Tour**<br>![Scenic Boat Tour：项目与景观参考图](assets/photos/scenic-boat.jpg) | A · 可选坐船 · [Scenic Boat Tours](https://www.scenicboattours.com/) |
+
+<!-- project-photos:end -->
+
 
 **怎么选：** 三人都想去 The Ringling、天气值得、司机愿意接受长途，就选 B；若更在意“不太累”，选 A。B 的往返驾驶预留 **5–6 小时或更久**，不会因看馆看海节奏慢而变成轻松交通日。
 
